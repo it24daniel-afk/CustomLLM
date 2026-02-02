@@ -40,4 +40,3 @@ A transparent, documented voyage through modern AI development—perfect for any
 - **6.** 
 
 - **21.** Web UI + API **[ ]**
----
