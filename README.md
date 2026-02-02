@@ -47,4 +47,5 @@ A transparent, documented voyage through modern AI development—perfect for any
 - **15.** Habit Recognition & Prediction **[ ]**
 - **16.** OS Automation (Linux/Windows: terminal, cmd, PowerShell, etc.) **[ ]**
 - **17.** Biometrics (Face Recognition, Voice Recognition) **[ ]**
+
 - **21.** Web UI + API **[ ]**
