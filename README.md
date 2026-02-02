@@ -31,22 +31,22 @@ A transparent, documented voyage through modern AI development—perfect for any
 ---
 
 ## **COMING SOON FEATURES**
-**0.** Generating Text **[ ]**
-**1.** Deep Reasoning & Thinking **[ ]**
-**2.** Code Generation **[ ]**
-**3.** Short-term memory **[ ]**
-**4.** Long-term memory with Space Repetition **[ ]**
-**5.** FileSystem & User uploads **[ ]**
-**6.** Learning Pattern Analysis & Adaptation **[ ]**
-**7.** Memory Consolidation & Retrieval **[ ]**
-**8.** Speech Enabled **[ ]**
-**9.** Stable Diffusion **[ ]**
-**10.** User Profiling & Preference Learning **[ ]**
-**11.** Web Browsing & Seach **[ ]**
-**12.** Memory & User Habits **[ ]**
-**13.** User Feedback **[ ]**
-**14.** Regex Pattern Matching & Generation **[ ]**
-**15.** Habit Recognition & Prediction **[ ]**
+- **0.** Generating Text **[ ]**
+- **1.** Deep Reasoning & Thinking **[ ]**
+- **2.** Code Generation **[ ]**
+- **3.** Short-term memory **[ ]**
+- **4.** Long-term memory with Space Repetition **[ ]**
+- **5.** FileSystem & User uploads **[ ]**
+- **6.** Learning Pattern Analysis & Adaptation **[ ]**
+- **7.** Memory Consolidation & Retrieval **[ ]**
+- **8.** Speech Enabled **[ ]**
+- **9.** Stable Diffusion **[ ]**
+- **10.** User Profiling & Preference Learning **[ ]**
+- **11.** Web Browsing & Seach **[ ]**
+- **12.** Memory & User Habits **[ ]**
+- **13.** User Feedback **[ ]**
+- **14.** Regex Pattern Matching & Generation **[ ]**
+- **15.** Habit Recognition & Prediction **[ ]**
 
 17. OS Automation Linux/Windows (terminal,cmd,powershell, other tools e.g., nmap, sqlmap, metasploit, etc.)
 18. Biometics (Face Recognition, Voice Recognition)
