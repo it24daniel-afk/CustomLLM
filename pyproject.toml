@@ -1,0 +1,66 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "CustomLLM from scratch"
+version = "1.0.0"
+description = "Implement a GPT style LLM in PyTorch from scratch."
+readme = "README.md"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    'torch>=2.8.0+cu128, "python_version >=3.12"',
+    "tensorflow>=2.20.0",
+    "jupyterlab",
+    "tiktoken",
+    "matplotlib",
+    "tqdm",
+    "numpy",
+    "pandas",
+    "pip>=25.2",
+    "pytest"
+]
+
+[tool.uv.sources]
+CustomLLM = { workspace = true }
+
+[dependency-groups]
+dev = [
+    "build",
+    "twine",
+    "tokenizers",
+    "safetensors"
+]
+
+bonus = [
+    "blobfile",
+    "chainlit",
+    "huggingface",
+    "ipywidgets",
+    "llms_from_scratch>=1.0.18",
+    "openai",
+    "requests",
+    "safetensors",
+    "scikit-learn",
+    "sentencepiece",
+    "thop",
+    "tokenizers",
+    "transformers",
+    "tqdm"
+]
+
+[tool.ruff]
+line-length = 140
+
+[tool.ruff.lint]
+exclude = [".venv"]
+ignore = [
+    "C406", "E226", "E402", "E702", "E703", "E722", "E731", "E741"
+]
+
+# `CustomLLM` PyPI package
+[tool.setuptools]
+package-dir = {"" = "pkg"}
+
+[tool.setuptools.packages.find]
+where = ["pkg"]
