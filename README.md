@@ -1,11 +1,17 @@
 # **Project Title:** CustomLLM From Scratch: 
 - The Complete Journey to Building a Large Language Model
 
+---
+
 ## **Repository Description:**
 This repository is the documented adventure of my hands-on journey to build a large language model (LLM) entirely from scratch. It represents a comprehensive, end-to-end expedition from the very first lines of tokenization code to a fully functional GPT-style model.
 
+---
+
 ### **My Adventure in AI:**
 Follow my step-by-step path through the entire landscape of LLM development. This isn't just code—it's a chronicle of the challenges, breakthroughs, and practical learnings from my personal deep dive into artificial intelligence. Every component is built with educational clarity, supported by detailed video tutorials that guide you through the same journey I undertook.
+
+---
 
 ### **The Journey's Milestones:**
 - **Foundation:** Beginning with core concepts like text tokenization and data preparation.
@@ -17,28 +23,30 @@ Follow my step-by-step path through the entire landscape of LLM development. Thi
   - **RAM:** 16 GB
 - **Full Workflow:** Complete with data chunking strategies, evaluation protocols, and performance tuning techniques learned along the way.
 
+---
+
 ### **What This Repository Contains:**
 A transparent, documented voyage through modern AI development—perfect for anyone who wants to understand LLMs not just theoretically, but through the tangible experience of building one. This is my journey, shared to help you begin yours.
 
 ---
 
 ## **COMING SOON FEATURES**
-0. Generating Text [ ]
-1. Deep Reasoning & Thinking [ ]
-2. Code Generation [ ]
-3. Short-term memory [ ]
-4. Long-term memory with Space Repetition [ ]
-5. FileSystem & User uploads [ ]
-6. Learning Pattern Analysis & Adaptation [ ]
-7. Memory Consolidation & Retrieval [ ]
-8. Speech Enabled [ ]
-9. Stable Diffusion [ ]
-10. User Profiling & Preference Learning [ ]
-11. Web Browsing & Seach [ ]
-12. Memory & User Habits [ ]
-13. User Feedback [ ]
-14. Regex Pattern Matching & Generation [ ]
-15. Habit Recognition & Prediction [ ]
+**0.** Generating Text **[ ]**
+**1.** Deep Reasoning & Thinking **[ ]**
+**2.** Code Generation **[ ]**
+**3.** Short-term memory **[ ]**
+**4.** Long-term memory with Space Repetition **[ ]**
+**5.** FileSystem & User uploads **[ ]**
+**6.** Learning Pattern Analysis & Adaptation **[ ]**
+**7.** Memory Consolidation & Retrieval **[ ]**
+**8.** Speech Enabled **[ ]**
+**9.** Stable Diffusion **[ ]**
+**10.** User Profiling & Preference Learning **[ ]**
+**11.** Web Browsing & Seach **[ ]**
+**12.** Memory & User Habits **[ ]**
+**13.** User Feedback **[ ]**
+**14.** Regex Pattern Matching & Generation **[ ]**
+**15.** Habit Recognition & Prediction **[ ]**
 
 17. OS Automation Linux/Windows (terminal,cmd,powershell, other tools e.g., nmap, sqlmap, metasploit, etc.)
 18. Biometics (Face Recognition, Voice Recognition)
