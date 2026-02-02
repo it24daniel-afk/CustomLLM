@@ -19,3 +19,6 @@ Follow my step-by-step path through the entire landscape of LLM development. Thi
 
 **What This Repository Contains:**
 A transparent, documented voyage through modern AI development—perfect for anyone who wants to understand LLMs not just theoretically, but through the tangible experience of building one. This is my journey, shared to help you begin yours.
+
+## **COMING SOON FEATURES**
+1. 
