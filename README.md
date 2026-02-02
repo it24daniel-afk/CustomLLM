@@ -28,15 +28,23 @@ Follow my step-by-step path through the entire landscape of LLM development. Thi
 ### **What This Repository Contains:**
 A transparent, documented voyage through modern AI development—perfect for anyone who wants to understand LLMs not just theoretically, but through the tangible experience of building one. This is my journey, shared to help you begin yours.
 
----
-
 ## **COMING SOON FEATURES**
 - **0.** Generating Text **[ ]**
 - **1.** Deep Reasoning & Thinking **[ ]**
 - **2.** Code Generation **[ ]**
 - **3.** Short-term memory **[ ]**
-- **4.** 
-- **5.** 
-- **6.** 
-
+- **4.** Long-term memory with Space Repetition **[ ]**
+- **5.** FileSystem & User uploads **[ ]**
+- **6.** Learning Pattern Analysis & Adaptation **[ ]**
+- **7.** Memory Consolidation & Retrieval **[ ]**
+- **8.** Speech Enabled **[ ]**
+- **9.** Stable Diffusion **[ ]**
+- **10.** User Profiling & Preference Learning **[ ]**
+- **11.** Web Browsing & Search **[ ]**
+- **12.** Memory & User Habits **[ ]**
+- **13.** User Feedback **[ ]**
+- **14.** Regex Pattern Matching & Generation **[ ]**
+- **15.** Habit Recognition & Prediction **[ ]**
+- **16.** OS Automation (Linux/Windows: terminal, cmd, PowerShell, etc.) **[ ]**
+- **17.** Biometrics (Face Recognition, Voice Recognition) **[ ]**
 - **21.** Web UI + API **[ ]**
